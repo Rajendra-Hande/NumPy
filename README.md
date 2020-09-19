@@ -1,6 +1,9 @@
 # NumPy
-NumPy Tutorials
-
-New Added Lines
+NumPy Tutorial
 
 by rajendra Hande
+
+
+New added Lines 
+
+by Amit Pawade
