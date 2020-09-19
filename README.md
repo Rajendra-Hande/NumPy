@@ -1,5 +1,11 @@
 # NumPy
-NumPy Tutorials
-
+NumPy Tutorial
 
 by rajendra Hande
+
+
+New added Lines 
+
+by Amit Pawade
+
+Added few lines again...
